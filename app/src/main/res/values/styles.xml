@@ -1,4 +1,5 @@
-<resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
@@ -8,4 +9,14 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-</resources>
+
+
+        <style name="Style_Card">
+
+            <item name="android:radius">20dp</item>
+
+
+        </style>
+    </resources>
+
+
