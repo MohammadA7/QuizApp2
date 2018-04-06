@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
         if( editText.getText().toString().equalsIgnoreCase("@string/forth_qustion_answer") )
             game.increaseScore();
 
-           Toast.makeText(this, "Your Score is " + game.getScore(), Toast.LENGTH_LONG);
+           Toast.makeText(this, "Your Score is " + game.getScore(), Toast.LENGTH_LONG).show();
 
     }
 }
