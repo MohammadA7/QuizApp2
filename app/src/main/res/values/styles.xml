@@ -9,14 +9,6 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-
-
-        <style name="Style_Card">
-
-            <item name="android:radius">20dp</item>
-
-
-        </style>
     </resources>
 
 
